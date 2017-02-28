@@ -1,0 +1,35 @@
+html {
+  font-family: sans-serif;
+}
+
+body {
+
+}
+
+section {
+  background: turquoise;
+  display: inline-block;
+  height: 100px;
+  margin-top: 80px;
+  opacity: .35;
+  width: calc(50% - 30px);
+}
+
+p {
+  border: 1px solid #ccc;
+  border-radius: 1px;
+  padding: 2em;
+}
+
+
+.modified-box {
+  border-width: 10px;
+  border-color: #f0f0f0;
+  font-size: 1.3em;
+  height: auto;
+  margin-top: 80px;
+  margin-left: 100px;
+  margin-bottom: 100px;
+  padding-right: 0;
+  width: 50px;
+}
